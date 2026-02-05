@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "jay.jpg"
   name             : "Jason NTUMBA MUKOMBELA"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineering student focused on applied engineering, sustainable technologies and real-world problem solving.\nCurrently working on environmental engineering projects, including a floating river waste collection system.\nInterested in mechanical design, machinary and impact-driven innovation."
